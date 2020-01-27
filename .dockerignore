@@ -1,1 +1,2 @@
-src/**
+src/*
+!src/webscraping-pj.webscraping-pj/support/
